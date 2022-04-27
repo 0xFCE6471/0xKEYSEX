@@ -2,16 +2,6 @@
 <img src="https://media3.giphy.com/media/nKQs7fb97dK4E/giphy.gif?cid=ecf05e47hbcvas36ub5yb82g55n44sl3rjgqjcbjlsh2znnf&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
 </div>  
   
-
-### <div align="center">Hi, I'm 0xKEYSEX a young Canadian cybersecurity student and a programming enthusiast 👨💻 been working in this topic there since 2016 🚀.</div>  
-  
-
-- 🔭I am a developer in: C / C / C++ / Python / Java / JavaScript  
-  
-
-<br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
